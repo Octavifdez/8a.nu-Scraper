@@ -1,0 +1,12 @@
+.idea/
+.idea/*
+/.idea
+*.DS_Store
+.AppleDouble
+.LSOverride
+*.pyc
+*.db
+*.rtf
+formatter2.json
+__pycache__
+*.html
