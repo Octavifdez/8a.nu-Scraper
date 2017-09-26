@@ -155,7 +155,7 @@ def scrape_user(climb_dict):
                 birth = datetime.date(bday_list[0], bday_list[1], bday_list[2])
         else:
             birth = None
-        
+
         presentation = user_info['presentation']
         deactivated = user_info['deactivated']
         anonymous = user_info['anonymous']

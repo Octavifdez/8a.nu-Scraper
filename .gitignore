@@ -10,3 +10,5 @@
 formatter2.json
 __pycache__
 *.html
+*.sqlite
+*.zip
