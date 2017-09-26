@@ -27,9 +27,9 @@ If you're not interested in running the scripts yourself, I am hosting the datas
 
 ##### Notes
 1. As of 9/13/2017, there were 67025 users (some deactivated, some anonymous). I'm sure there are more now.
-2. `Ascent.date` (date the ascent occurred) and `ascent.recdate` (date the ascent was entered into the log) are stored as Unix timestamps.
-3. `Ascent.climb_type` maps as follows: 0: route, 1: boulder.
-4. `Ascent.notes` is where "Soft", "Second Go", and "First Ascent" are stored.
+2. `ascent.date` (date the ascent occurred) and `ascent.recdate` (date the ascent was entered into the log) are stored as Unix timestamps.
+3. `ascent.climb_type` maps as follows: 0: route, 1: boulder.
+4. `ascent.notes` is where "Soft", "Second Go", and "First Ascent" are stored.
 
 ### Future Directions
 There are so many questions that can be asked of this dataset, which is why I am open-sourcing it. Please share your findings!
